@@ -8,7 +8,9 @@ I'm Jacek, and I'm passionate about IT. Currently, I'm learning to become a Fron
 
 <!-- 📧 Contact me: [Your Email] -->
 
-
+Here are projects I'm currently working on
+[Homepage](https://yahtzee90.github.io/homepage/)
+[Exchange Calculator](https://yahtzee90.github.io/exchange_calculator/)
 
 
 <!--
