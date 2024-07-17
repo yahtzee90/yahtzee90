@@ -1,3 +1,5 @@
+<!-- 
+
 # Hi there! 👋
 
 I'm Jacek, and I'm passionate about IT. Currently, I'm learning to become a Frontend Developer.
@@ -7,3 +9,5 @@ I'm Jacek, and I'm passionate about IT. Currently, I'm learning to become a Fron
 - 📚 Always eager to learn
 
 <!-- 📧 Contact me: [Your Email] -->
+
+-->
